@@ -4,6 +4,7 @@ body{
     background: #777;
     width: 960px;
     font-size: 18px;
+    text-align: center;
 }
 
 header, nav, section, aside, footer {
@@ -21,15 +22,23 @@ p {
     color: #777;
     background: #ebebeb;
     padding: 20px;
+
 }
 section{
-    width: 495px;
+    width: 49.5%;
     height: 250px;
     padding: 30px;
     margin-left: 150px;
    
 
 
+}
+aside{
+padding: 20px;
+width: 41.5%;
+height: 250px;
+background-color: aqua;
+margin-right: 1%;
 }
 header,nav,footer { 
     clear: both;
@@ -44,9 +53,3 @@ footer{
     margin-top: 20px;
 }
 
-aside{
-padding: 20px;
-width: 33%;
-height: 200px;
-background-color: aqua;
-}
