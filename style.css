@@ -6,8 +6,62 @@ body{
     font-size: 18px;
     text-align: center;
 }
+.header{
+    background: #ebebeb;
+    clear: both;
+    overflow: auto;
+    margin-bottom: 20px;
+    margin-left: 150px;
+    margin-right: -50px;
+}
+nav{
+    background: #ebebeb;
+    margin-left: 150px;
+    margin-right: -50px;
+    clear: both;
+    overflow: auto;
+}
+.a1{
+    background: #ebebeb;
+    height: 220px;
+    width: 50%;
+    margin: 20px 150px;
+    padding: 40px;
+}
+.a3{
+    color: #777;
+    background: #ebebeb;
+    padding: 15px;
+    height: 30px;
+    margin-bottom: -5px;
+    margin-top: 15px;
+    
+}
+.a4{
+    color: #ebebeb;
+    background: #777;
+    height: 160px;
+    margin-top: 25px;
+    margin-right: -30px;
+    margin-left: -30px;
+    padding: 20px;
+}
+.lonely{
+    background: #ebebeb;
+    width: 33%;
+    height: 200px;
+}
+.f1{
+    background: #ebebeb;
+    clear: both;
+    overflow: auto;
+    margin-top: 20px;
+    margin-right: -50px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
 
-header, nav, section, aside, footer {
+/* header, nav, section, aside, footer {
     background: #ebebeb;
     }
 article{
@@ -33,7 +87,7 @@ section{
 
 
 }
-aside{
+.lonley{
 padding: 20px;
 width: 41.5%;
 height: 250px;
@@ -52,4 +106,4 @@ header,nav,footer {
 footer{
     margin-top: 20px;
 }
-
+ */
